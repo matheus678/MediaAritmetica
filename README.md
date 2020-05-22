@@ -1,0 +1,2 @@
+# MediaAritmetica
+Exercício aula PC
